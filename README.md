@@ -5,6 +5,11 @@
 * [gcc cross-compiler](https://wiki.osdev.org/GCC_Cross-Compiler)
 * gnu xoriiso for building the CD ISO image (The ISO image might compile but not work...I am trying to fix it).
 
+# How to build
+
+* make                        clean-build
+* make qemu-boot-hdd          boot qemu from hard disk drive
+* make qemu-boot-cd           boot qemu from CDROM drive
 
 # Project Status
 
