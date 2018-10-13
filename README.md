@@ -7,9 +7,10 @@
 
 # How to build
 
-* make                        clean-build
-* make qemu-boot-hdd          boot qemu from hard disk drive
-* make qemu-boot-cd           boot qemu from CDROM drive
+* $make                        = clean-build
+* $make qemu-boot-hdd          = boot qemu from hard disk drive
+* $make qemu-boot-cd           = boot qemu from CDROM drive
+
 
 # Project Status
 
